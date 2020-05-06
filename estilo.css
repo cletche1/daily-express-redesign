@@ -13,3 +13,23 @@ background-color: skyblue;
  footer{
      background-color: yellow;
  }
+
+ div.container{
+    width: 1000px;
+    background-color: rgb(187, 15, 15);
+    height:100%;
+    margin-right:200px;
+    
+}
+div{
+    width: 300px;height: 300px;
+}
+.esquerda{
+    background-color: green;
+    float:right;
+    
+}
+.direita{
+    background-color: blue;
+    float: right;
+}
