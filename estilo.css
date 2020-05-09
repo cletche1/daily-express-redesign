@@ -1,18 +1,13 @@
-ul{
-    background-color: rgb(42, 165, 52);
+body {
+    padding:0px;
+    margin:0px;
 }
- article{
-     background-color: royalblue;
- }
- section{
-     background-color: tomato;
- }
- aside{
-background-color: skyblue;
- }
- footer{
-     background-color: yellow;
- }
+#menu ul {
+    float: left;
+    width: 100%;
+}
+
+#menu ul li { display: inline; }
 
  div.container{
     width: 1000px;
