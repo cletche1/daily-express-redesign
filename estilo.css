@@ -1,11 +1,61 @@
 body {
-padding: 0%;
 margin: 0%;
 }
-#menu ul {
-    float: left;
-    width: 100%;
+
+#menu ul{
+margin: 0%;
+list-style: none;
 }
 
-#menu ul li { display: inline; 
+#comeco
+
+#menu ul li{
+display: inline;
 }
+
+#menu ul li a{
+padding: 10px 30px;
+display: inline-block;
+
+}
+
+
+#caixa1{
+position: relative;
+height: 300px;
+width: 300px;
+left: 200px;
+top: 20px;
+background-color: darkblue;
+}
+   
+#caixa2{
+position: absolute;;
+height: 300px;
+width: 300px;
+left: 510px;
+top: 1px;
+margin-top: 205px;
+background-color: red;
+}
+
+#politica{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    left: 200px;
+    top: 25px;
+    background-color: springgreen;
+    }
+
+      
+#economia{
+    position: absolute;;
+    height: 300px;
+    width: 300px;
+    left: 510px;
+    top: 1px;
+    margin-top:510px;
+  background-color: maroon;
+    }
+       
